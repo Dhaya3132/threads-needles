@@ -18,8 +18,8 @@ export default {
         'Mobile-S': { 'max': '321px' },
       },
       colors:{
-        'Yellow':'#392d69',
-        'LightYellow':'#b57bee',
+        'Yellow':'#0c0c0c',
+        'LightYellow':'#0f971c',
       }
     },
   },
