@@ -42,7 +42,7 @@ function Intros() {
         initial={{opacity:0, x:-100}}
         animate={{opacity:1,x:0}}
         transition={{duration:2, delay:4,staggerChildren:0.4}}
-        className='px-6 py-3 rounded-full text-lg font-Poppins bg-gradient-to-r from-indigo-500 to-slate-200 font-semibold text-black Mobile-S:px-3 Mobile-S:py-2 Mobile-M:px-3 Mobile-M:py-2 Mobile-L:px-3 Mobile-L:py-2'>Starts here</motion.button>
+        className='px-6 py-3 rounded-full text-lg font-Poppins bg-gradient-to-r from-blue-700 to-slate-200 font-normal text-black Mobile-S:px-3 Mobile-S:py-2 Mobile-M:px-3 Mobile-M:py-2 Mobile-L:px-3 Mobile-L:py-2'>Starts here</motion.button>
       </div>
 
     </div>

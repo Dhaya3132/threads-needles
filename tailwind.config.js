@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        'IndieFlower': ['Indie Flower'],
+        'Sora': ['Sora'],
         'Poppins': ['Poppins'],
       },
       screens: {
@@ -16,6 +16,10 @@ export default {
         'Mobile-L': { 'max': '426px' },
         'Mobile-M': { 'max': '376px' },
         'Mobile-S': { 'max': '321px' },
+      },
+      colors:{
+        'Yellow':'#392d69',
+        'LightYellow':'#b57bee',
       }
     },
   },
