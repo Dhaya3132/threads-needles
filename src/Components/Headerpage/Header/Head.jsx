@@ -6,7 +6,7 @@ import Button from '../Button';
 function Head() {
   return (
     <>
-      <div className='text-white bg-black p-20 flex flex-col gap-4'>
+      <div className='text-white bg-black flex flex-col gap-4 justify-center  p-20 mt-5'>
         <motion.h2
           initial={{ opacity: 0, x: -100 }}
           animate={{ opacity: 1, x: 0 }}

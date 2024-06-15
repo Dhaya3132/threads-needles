@@ -14,7 +14,7 @@ function Navbar() {
                 initial={{ opacity: 0, y: -100 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 2, delay: 2, staggerChildren: 0.1 }}
-                className='bg-gradient-to-r from-Yellow to-LightYellow text-white font-Sora text-sm font-normal px-5 py-3 rounded-full Mobile-S:hidden Mobile-M:hidden Mobile-L:hidden'>Contacts</motion.button>
+                className='bg-gradient-to-r from-Yellow to-LightYellow text-white font-Sora text-sm font-normal px-5 py-3 rounded-full relative hover:bg-none hover:bg-slate-900 Mobile-S:hidden Mobile-M:hidden Mobile-L:hidden'>Contacts</motion.button>
         </nav>
     )
 }
