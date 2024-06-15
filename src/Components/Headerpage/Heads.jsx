@@ -7,6 +7,8 @@ function Heads() {
     <div>
         <Navbar></Navbar>
         <Head></Head>
+        
+        
     </div>
   )
 }

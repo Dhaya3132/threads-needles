@@ -6,8 +6,10 @@ import Heads from './Components/Headerpage/Heads'
 function App() {
   return (
 
-    // <Intros></Intros>
+    <div className='bg-black h-screen w-screen'>
     <Heads />
+    </div>
+
 
 
   )
