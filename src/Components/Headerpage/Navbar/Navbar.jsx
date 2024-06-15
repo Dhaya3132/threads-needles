@@ -4,12 +4,12 @@ import { motion } from 'framer-motion';
 function Navbar() {
     return (
         <nav
-            className='flex justify-between items-center p-5 border-solid border-b-2 border-gray-800 bg-black drop-shadow-2xl drop'>
+            className='flex justify-between items-center p-5 border-solid border-b-2 border-gray-300 bg-white drop-shadow-lg drop'>
             <motion.h2
                 initial={{ opacity: 0, y: -100 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 1, delay: 0.5, staggerChildren: 0.1 }}
-                className='font-Sora font-medium text-xl text-white Mobile-S:text-base Mobile-M:text-base Mobile-L:text-base'>thread&needle</motion.h2>
+                className='font-Sora font-medium text-xl text-black Mobile-S:text-base Mobile-M:text-base Mobile-L:text-base'>thread&needle</motion.h2>
             <motion.button
                 initial={{ opacity: 0, y: -100 }}
                 animate={{ opacity: 1, y: 0 }}
