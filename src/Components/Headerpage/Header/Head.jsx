@@ -35,7 +35,7 @@ function Head() {
           initial={{ opacity: 0, x: -100 }}
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 2, delay: 1, staggerChildren: 0.2 }}
-          src={Sweing} className='w-2/5 h-2/5 border-dashed border-2 border-slate-300 rounded-2xl' />
+          src={Sweing} className='w-2/5 h-2/5' />
       </div>
 
     </>

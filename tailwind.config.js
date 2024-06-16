@@ -20,6 +20,9 @@ export default {
       colors:{
         'Yellow':'#0c0c0c',
         'LightYellow':'#0f971c',
+      },
+      backgroundImage:{
+        'Blouse':"url('src/assets/Blouse.jpg)"
       }
     },
   },
