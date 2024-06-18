@@ -2,6 +2,7 @@ import React from 'react'
 import Navbar from './Navbar/Navbar';
 import Head from './Header/Head';
 import Service from './Service';
+import Why from './Whyus/Why';
 
 
 function Heads() {
@@ -10,6 +11,7 @@ function Heads() {
       <Navbar></Navbar>
       <Head></Head>
       <Service></Service>
+      <Why></Why>
     </div>
   )
 }
