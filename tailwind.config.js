@@ -20,9 +20,12 @@ export default {
       colors:{
         'Yellow':'#0c0c0c',
         'LightYellow':'#0f971c',
+        'HoneyWell':'#F0FFF0',
       },
       backgroundImage:{
-        'Blouse':"url('src/assets/Blouse.jpg)"
+        'Kurtis':"url('src/assets/Kurtis.jpg')",
+        'Saree':"url('src/assets/Saree.jpg')",
+        'Tops':"url('src/assets/Tops.jpg')",
       }
     },
   },
