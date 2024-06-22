@@ -4,7 +4,7 @@ function Together() {
     return (
 
         <div className="mt-10 relative">
-            <div className='font-Sora bg-HoneyWell p-10 relative'>
+            <div className='font-Sora bg-HoneyWell p-10 relative Mobile-S:p-4'>
                 <p className='text-5xl'>Let us help you create a wardrobe that reflects your unique style and personality.</p>
             </div>
             {/* <div className='absolute inset-0 top-10 left-10 z-10'>

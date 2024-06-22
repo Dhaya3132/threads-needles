@@ -24,8 +24,8 @@ function Service() {
 
         <section className='mt-30 p-10'>
             <div>
-                <h3 className='font-Sora text-7xl text-center font-medium mb-4'>Choose your <span className='text-Orange pl-1 pr-1'>fashion</span></h3>
-                <p className='font-Sora text-xl text-center font-light'>Your choice we'll design & stitch, just for you</p>
+                <h3 className='font-Sora text-7xl text-center font-medium mb-4 Mobile-S:text-3xl'>Choose your <span className='text-Orange pl-1 pr-1'>fashion</span></h3>
+                <p className='font-Sora text-xl text-center font-light Mobile-S:text-sm'>Your choice we'll design & stitch, just for you</p>
             </div>
 
             <ul className='flex justify-center items-center gap-10 mt-10'>
