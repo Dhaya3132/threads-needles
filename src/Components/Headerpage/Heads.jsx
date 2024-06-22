@@ -4,6 +4,7 @@ import Head from './Header/Head';
 import Service from './Service';
 import Why from './Whyus/Why';
 import About from './About';
+import VisitUs from './VisitUs';
 
 
 function Heads() {
@@ -14,6 +15,7 @@ function Heads() {
       <Service></Service>
       <Why></Why>
       <About></About>
+      <VisitUs></VisitUs>
     </div>
   )
 }

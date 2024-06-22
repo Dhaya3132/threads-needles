@@ -22,10 +22,10 @@ const Data_Componets = [
 function Service() {
     return (
 
-        <section className='mt-30 bg-slate-50 p-12'>
+        <section className='mt-30 p-10'>
             <div>
-                <h3 className='font-Sora text-6xl text-center font-semibold mb-4'>Choose your <span className='text-Orange pl-1 pr-1'>fashion</span></h3>
-                <p className='font-Sora text-2xl text-center font-medium'>Your choice we'll design & stitch, just for you</p>
+                <h3 className='font-Sora text-7xl text-center font-medium mb-4'>Choose your <span className='text-Orange pl-1 pr-1'>fashion</span></h3>
+                <p className='font-Sora text-xl text-center font-light'>Your choice we'll design & stitch, just for you</p>
             </div>
 
             <ul className='flex justify-center items-center gap-10 mt-10'>
