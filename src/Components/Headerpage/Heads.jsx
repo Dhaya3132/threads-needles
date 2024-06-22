@@ -5,6 +5,7 @@ import Service from './Service';
 import Why from './Whyus/Why';
 import About from './About';
 import VisitUs from './VisitUs';
+import Together from './Together';
 
 
 function Heads() {
@@ -16,6 +17,8 @@ function Heads() {
       <Why></Why>
       <About></About>
       <VisitUs></VisitUs>
+      <Together></Together>
+
     </div>
   )
 }
