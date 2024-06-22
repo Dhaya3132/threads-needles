@@ -6,6 +6,7 @@ import Why from './Whyus/Why';
 import About from './About';
 import VisitUs from './VisitUs';
 import Together from './Together';
+import Carlous from './Carlous';
 
 
 function Heads() {
@@ -18,6 +19,7 @@ function Heads() {
       <About></About>
       <VisitUs></VisitUs>
       <Together></Together>
+      <Carlous></Carlous>
 
     </div>
   )
