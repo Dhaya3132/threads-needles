@@ -20,7 +20,7 @@ export default {
       colors:{
         'Yellow':'#0c0c0c',
         'LightYellow':'#0f971c',
-        'HoneyWell':'#F0FFF0',
+        'HoneyWell':'#F0F8FF',
       },
       backgroundImage:{
         'Kurtis':"url('src/assets/Kurtis.jpg')",
