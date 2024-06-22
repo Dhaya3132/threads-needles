@@ -7,6 +7,7 @@ import About from './About';
 import VisitUs from './VisitUs';
 import Together from './Together';
 import Carlous from './Carlous';
+import Footer from './Footer';
 
 
 function Heads() {
@@ -20,6 +21,7 @@ function Heads() {
       <VisitUs></VisitUs>
       <Together></Together>
       <Carlous></Carlous>
+      <Footer></Footer>
 
     </div>
   )
