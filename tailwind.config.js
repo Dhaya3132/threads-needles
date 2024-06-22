@@ -18,9 +18,11 @@ export default {
         'Mobile-S': { 'max': '321px' },
       },
       colors:{
-        'Yellow':'#0c0c0c',
-        'LightYellow':'#0f971c',
+        'Yellow':'#fcb0f3',
+        'LightYellow':'#3d05dd',
         'HoneyWell':'#F0F8FF',
+        'Orange':'#f7ba2c',
+        'DarkOrange':'#ea5459',
       },
       backgroundImage:{
         'Kurtis':"url('src/assets/Kurtis.jpg')",
