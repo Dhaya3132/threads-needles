@@ -7,7 +7,7 @@ import Sweing from '/src/assets/Sweing.png';
 function Head() {
   return (
     <>
-      <div className='text-black bg-white flex gap-10 p-24 justify-center items-center Mobile-S:p-5 Mobile-S:flex-col Mobile-M:p-5 Mobile-M:flex-col'>
+      <div className='text-black bg-white flex gap-10 p-24 justify-center items-center Mobile-S:p-5 Mobile-S:flex-col Mobile-M:p-5 Mobile-M:flex-col Mobile-L:p-5 Mobile-L:flex-col'>
         <div>
           <motion.h2
             initial={{ opacity: 0, x: -100 }}
@@ -35,7 +35,7 @@ function Head() {
           initial={{ opacity: 0, x: -100 }}
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 2, delay: 1, staggerChildren: 0.2 }}
-          src={Sweing} className='w-2/5 h-2/5 Mobile-S:w-4/5 Mobile-S:h-4/5 Mobile-M:w-4/5 Mobile-M:4/5' />
+          src={Sweing} className='w-2/5 h-2/5 Mobile-S:w-4/5 Mobile-S:h-4/5 Mobile-M:w-4/5 Mobile-M:4/5 Mobile-L:w-4/5 Mobile-L:h-4/5' />
       </div>
 
     </>
