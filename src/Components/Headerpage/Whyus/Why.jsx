@@ -5,7 +5,7 @@ import Sweing from '/src/assets/Sweing.png';
 
 function Why() {
   return (
-    <section className='bg-white p-14 Mobile-S:p-5 Mobile-L:p-5 Mobile-M:p-5'>
+    <section className='bg-gradient-to-r from-indigo-50 to-transparent p-14 Mobile-S:p-5 Mobile-L:p-5 Mobile-M:p-5'>
       <div className=' p-7 rounded-xl shadow-md bg-gradient-to-r from-Orange to-DarkOrange Mobile-S:w-full Mobile-L:w-full Mobile-M:w-full'>
         <div className='flex justify-around items-center '>
           <ul>

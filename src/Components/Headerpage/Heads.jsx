@@ -23,7 +23,7 @@ const AnimatedFooter = withScrollAnimation(Footer);
 
 function Heads() {
   return (
-    <div>
+    <div className='bg-gradient-to-r from-indigo-50 to-transparent'>
       <AnimatedNavbar />
       <AnimatedHead />
       <AnimatedService />

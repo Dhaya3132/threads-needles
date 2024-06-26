@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 function Navbar() {
     return (
         <nav
-            className='flex justify-between items-center p-5 bg-white drop-shadow-sm sticky top-0'>
+            className='flex justify-between items-center p-5 bg-gradient-to-r from-indigo-50 to-transparent drop-shadow-sm border-solid border-b-2 border-slate-200 sticky top-0'>
             <motion.h2
                 initial={{ opacity: 0, y: -100 }}
                 animate={{ opacity: 1, y: 0 }}
